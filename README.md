@@ -3,11 +3,10 @@
 </div>
 
 
-<p style= "color:#F96A03; font-size:45px; font-weight:600;">Я начинающий фронтенд разработчик</p>
+##Я начинающий фронтенд разработчик
 
 
-
-<p style= "color:#F96A03; font-size:40px;  font-weight:600;">Languages and tools</p>
+##Languages and tools
 
 
 
