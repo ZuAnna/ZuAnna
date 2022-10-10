@@ -2,11 +2,9 @@
 <img src="assets/annaname.png" widht='100%' height='65'>
 </div>
 
+## Я начинающий фронтенд разработчик
 
-##Я начинающий фронтенд разработчик
-
-
-##Languages and tools
+## Languages and tools
 
 
 
